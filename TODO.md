@@ -1,0 +1,5 @@
+- [x] Add function1 to lib/absolute_package/package1/module2.py
+- [x] Add function1 to lib/absolute_package/package2/module3.py
+- [x] Add function1 to lib/absolute_package/package2/module4.py
+- [x] Add function1 to lib/absolute_package/package2/module5.py
+- [x] Edit lib/relative_package/subpackage1/subpackage2/module2.py to add function1 and uncomment imports

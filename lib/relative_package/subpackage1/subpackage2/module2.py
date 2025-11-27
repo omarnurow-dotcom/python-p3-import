@@ -1,5 +1,8 @@
 from .module1 import function1
-# from .. import module3
+from .. import module3
+
+def function1():
+    print('Function 1 from module2')
 
 function1()
-# module3.function1()
+module3.function1()
